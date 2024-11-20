@@ -19,4 +19,4 @@ $ sudo ./intelmetool -m
 
 Can't find ME PCI device
 
-(Ekran_Görüntüsü_2024-11-20_22-48-31.png)
+![](Ekran_Görüntüsü_2024-11-20_22-48-31.png)
