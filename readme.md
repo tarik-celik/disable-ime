@@ -15,7 +15,7 @@ My **ME FIRMWARE VERSION** is 16.1.25.2091
 - run the intelmetool, your output should be like:
 
 
-> `$ sudo ./intelmetool -m`
+$ sudo ./intelmetool -m
 
-> `Can't find ME PCI device`
+Can't find ME PCI device
 
