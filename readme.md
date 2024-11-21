@@ -1,4 +1,4 @@
-# How to disable the intel management engine in Intel Thinkpads?
+# How to disable the intel management engine in Intel Devices?
 
 My device is "21JK0006TX ThinkPad E14 Gen 5".
 
